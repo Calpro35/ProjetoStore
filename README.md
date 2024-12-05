@@ -1,3 +1,3 @@
 # ProjetoStore
 
-Site de Produtos com BD oracle server/Tomcat/JSP/JavaBeans
+Site de Cadastro e visualicção Produtos com BD Oracle-server/ApacheTomcat 10.31.1/JSP/JavaBeans
